@@ -9,4 +9,3 @@ for num in list1:
 
 
 
-
